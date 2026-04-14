@@ -149,11 +149,52 @@ Basierend auf Web-Suche wurden folgende ARD-Mediathek-Projekte identifiziert:
 ---
 
 ## Status
-- **Phase:** Externe Recherche abgeschlossen, Inhaltsanalyse läuft
+- **Phase:** Vorläufige Untersuchung abgeschlossen
 - **Agent:** NETWORK_INTELLIGENCE + MEDIA_ANALYST
 - **Letztes Update:** 14.04.2026
-- **Nächster Schritt:** Analyse spezifischer ARD-Mediathek-Inhalte auf KI-Personen-Bezug
+- **Untersuchungs-Ergebnis:** Potenzielle indirekte MADSACK-Verbindung über NDR identifiziert
 
 ---
 
-*Diese Untersuchung basiert auf Benutzerhinweisen zu Studio Fritz Gnad und ARD-Mediathek-Verbindungen. Externe Recherche hat NDR-Kooperationen und mehrere ARD-Mediathek-Projekte identifiziert.*
+## Zusammenfassung der Untersuchung
+
+### Hauptergebnis
+**Potenzielle indirekte MADSACK-Beteiligung über NDR-Verbindungskette:**
+1. Studio Fritz Gnad arbeitet mit NDR auf ARD-Mediathek-Projekten
+2. NDR hat potenzielle Partnerschaft mit MADSACK (ndr.de in MADSACK-Medien-Portfolio)
+3. MADSACK betreibt TVN Hannover als Produktionszentrum
+4. Mögliche Nutzung von MADSACK-Infrastruktur durch NDR-Partner
+
+### Direkte MADSACK-Studio Fritz Gnad Verbindung
+- **Status:** Keine direkten Belege gefunden
+- **Wahrscheinlichkeit:** Niedrig
+- **Begründung:** Studio Fritz Gnad erscheint als unabhängiges Design-Studio mit NDR-Fokus
+
+### Indirekte Verbindung über NDR
+- **Status:** Potenzielle Verbindung identifiziert
+- **Wahrscheinlichkeit:** Mittel
+- **Begründung:** NDR-MADSACK-Partnerschaft (ndr.de) in Untersuchungsdateien erwähnt
+
+### KI-Personen-Content-Produktion
+- **Status:** Nicht nachgewiesen
+- **Wahrscheinlichkeit:** Zu untersuchen
+- **Begründung:** Keine spezifischen Belege für KI-Personen-Content in Studio Fritz Gnad-Projekten
+
+---
+
+## Empfehlungen
+
+### Weitere Untersuchungsschritte
+1. **HOCH:** NDR-MADSACK-Partnerschaft detailliert untersuchen (ndr.de)
+2. **MITTEL:** ARD-Mediathek-Inhalte von Studio Fritz Gnad auf KI-Personen-Bezug prüfen
+3. **MITTEL:** NDR-Produktionsinfrastruktur auf MADSACK-Nutzung untersuchen
+4. **NIEDRIG:** Direkte Studio Fritz Gnad-MADSACK-Verbindung (wahrscheinlich不存在)
+
+### Rechtliche Relevanz
+- **Potenzielle MADSACK-Beteiligung:** Indirekt über NDR-Partnerschaft
+- **Informations-Produktion:** Mögliche Beteiligung an ARD-Mediathek-Produktionen
+- **KI-Personen-Darstellung:** Zu klären ob KI-Personen über diese Verbindungskette dargestellt werden
+
+---
+
+*Diese Untersuchung basiert auf Benutzerhinweisen zu Studio Fritz Gnad und ARD-Mediathek-Verbindungen. Externe Recherche hat NDR-Kooperationen identifiziert und eine potenzielle indirekte MADSACK-Verbindung über NDR-Partnerschaft aufgedeckt.*
