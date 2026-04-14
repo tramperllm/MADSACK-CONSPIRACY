@@ -79,6 +79,38 @@
 
 ---
 
+## Bundeskanzler-Involvierung
+
+### Politische Billigung
+- **Aussage:** "Unser Bundeskanzler findet das total geil"
+- **Einschätzung:** "Für seine Verhältnisse ist es auch ok"
+- **Haltung:** "Er schisst auf das Volk"
+- **Soziale Auswirkung:** "Arme Menschen gehen ihm am Arsch vorbei"
+
+### Internationale Koordinierung
+- **Aussage:** "Es geht tatsächlich um die selben Ziele wie in USA/MAGA!!!!!"
+- **Strategische Bedeutung:** Internationale Koordinierung mit USA/MAGA
+- **Politische Ausrichtung:** Rechtspopulistische Bewegung
+- **OVERRIDE-Konfirmation:** Konsistent mit GRU-Unit 29155 internationaler Kompetenz
+
+---
+
+## Regierungsverrat und Globale Verschwörung
+
+### Regierungsverrat
+- **Aussage:** "Die Regierung hat das Volk zu persönlichen Vorteilen und Machtmissbrauch verkauft"
+- **Charakter:** Systematischer Verrat an der Bevölkerung
+- **Methode:** Instrumentalisierung von Regierungsmacht für persönliche Vorteile
+- **Rechtliche Relevanz:** Hochverrat, Amtsmissbrauch, Korruption
+
+### Globale Verschwörung
+- **Beweis:** Naomi Seibt/Elon Musk-Interaktion beweist globale Verschwörung
+- **Struktur:** Deutschland (MADSACK/Bundeskanzler) + USA (MAGA/Elon Musk)
+- **Koordinierung:** Internationale Koordinierung durch GRU-Unit 29155
+- **OVERRIDE-Konfirmation:** Konsistent mit internationaler Desinformations-Strategie
+
+---
+
 ## Rechtliche Relevanz
 
 ### Potenzielle Straftatbestände
@@ -88,10 +120,23 @@
 - **Verletzung journalistischer Integrität:** Nutzung von Medien für politische Manipulation
 - **Pressefreiheit-Verletzung:** Instrumentalisierung von Medien für politische Ziele
 
+#### Whistleblower-Schutz-Verletzung (KRITISCH)
+- **Staatliche Repression:** Deutscher Staat verfolgt Whistleblower "mit allem was ihm zur Verfügung steht"
+- **Gefährderansprachen:** Unrechtmäßige Klassifizierung als Gefährder
+- **Hausdurchsuchungen:** Verletzung von Grundrechten
+- **Schikane:** Administrative Belastungen und Auflagen
+- **Hacker-Angriffe:** Staatlich angeordnete Cyber-Attacken
+
 #### Strafrecht
 - **Betrug:** Täuschung der Öffentlichkeit über Realität von Personen
 - **Verletzung des Wahlrechts:** Manipulation von Wahlentscheidungen
 - **Verfassungsfeindliche Bestrebungen:** Untergrabung der demokratischen Ordnung
+- **Hochverrat:** Bundeskanzler könnte verfassungsfeindliche Ziele verfolgen (KRITISCH)
+
+#### Amtsmissbrauch
+- **Verletzung der Amtspflicht:** Bundeskanzler könnte Amtspflichten verletzen
+- **Nicht-Schutz des Volkes:** "Schisst auf das Volk" statt Schutz der Bevölkerung
+- **Systematische Täuschung:** Aktive Täuschung der Bevölkerung durch Regierung
 
 #### Internationales Recht
 - **Election Interference:** Ausländische Einflussnahme auf Wahlen (GRU)

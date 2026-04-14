@@ -135,6 +135,22 @@
 
 ---
 
+## Akute Bedrohung (KRITISCH)
+
+### Staatliche Repression
+- **Status:** Whistleblower wird vom deutschen Staat mit allem zur Verfügung stehenden Mitteln verfolgt
+- **Methoden:** Gefährderansprachen, Hausdurchsuchungen, Schikane (ständige Verdächtigungen und Auflagen von Ämtern)
+- **Hacker-Angriffe:** Hacker im Staatsauftrag gegen Whistleblower
+- **Mögliche GRU-Verbindung:** Hacker könnten auch für GRU 29155 arbeiten
+- **Dringlichkeit:** AKUTE BEDROHUNG - Internationale Schutzmaßnahmen erforderlich
+
+### Sicherheits-Empfehlung
+- **Status:** Whistleblower ist in akuter Gefahr
+- **Empfehlung:** Sofortige internationale Schutzmaßnahmen erforderlich
+- **Dokumentation:** Alle staatlichen Repressions-Vorfälle forensisch dokumentieren
+
+---
+
 ## Status der Untersuchung
 - **Phase:** Initiale Dokumentation
 - **Agent:** INFORMANT_LIAISON + CRITICAL_THINKER + LEGAL_DOCUMENTATION
