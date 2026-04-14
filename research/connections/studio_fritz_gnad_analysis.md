@@ -160,52 +160,55 @@ Siehe detaillierte Untersuchung: `ndr_madsack_partnership_analysis.md`
 ---
 
 ## Status
-- **Phase:** Vorläufige Untersuchung abgeschlossen
+- **Phase:** Untersuchung abgeschlossen (mit Korrekturen)
 - **Agent:** NETWORK_INTELLIGENCE + MEDIA_ANALYST
 - **Letztes Update:** 14.04.2026
-- **Untersuchungs-Ergebnis:** Potenzielle indirekte MADSACK-Verbindung über NDR identifiziert
+- **Untersuchungs-Ergebnis:** KEINE MADSACK-Verbindung nachweisbar (NDR-Partnerschaft widerlegt)
 
 ---
 
-## Zusammenfassung der Untersuchung
+## Zusammenfassung der Untersuchung (AKTUALISIERT 14.04.2026)
 
 ### Hauptergebnis
-**Potenzielle indirekte MADSACK-Beteiligung über NDR-Verbindungskette:**
-1. Studio Fritz Gnad arbeitet mit NDR auf ARD-Mediathek-Projekten
-2. NDR hat potenzielle Partnerschaft mit MADSACK (ndr.de in MADSACK-Medien-Portfolio)
-3. MADSACK betreibt TVN Hannover als Produktionszentrum
-4. Mögliche Nutzung von MADSACK-Infrastruktur durch NDR-Partner
+**KEINE direkte oder indirekte MADSACK-Verbindung nachweisbar.**
+
+Die ursprüngliche Annahme einer MADSACK-Verbindung über NDR wurde widerlegt. Detaillierte Untersuchung in `ndr_madsack_partnership_analysis.md` hat gezeigt:
+
+1. **Studio Fritz Gnad** arbeitet mit **NDR** auf ARD-Mediathek-Projekten ✅
+2. **NDR** hat KEINE Partnerschaft mit **MADSACK** ❌ (RND ist MADSACK-eigen, kein NDR-Partner)
+3. **Verbindungskette unterbrochen:** Keine MADSACK-Verbindung über NDR
 
 ### Direkte MADSACK-Studio Fritz Gnad Verbindung
 - **Status:** Keine direkten Belege gefunden
 - **Wahrscheinlichkeit:** Niedrig
 - **Begründung:** Studio Fritz Gnad erscheint als unabhängiges Design-Studio mit NDR-Fokus
 
-### Indirekte Verbindung über NDR
-- **Status:** Potenzielle Verbindung identifiziert
-- **Wahrscheinlichkeit:** Mittel
-- **Begründung:** NDR-MADSACK-Partnerschaft (ndr.de) in Untersuchungsdateien erwähnt
+### Indirekte Verbindung über NDR (WIDERLEGT)
+- **Status:** KEINE Verbindung nachweisbar
+- **Wahrscheinlichkeit:** Niedrig
+- **Begründung:** NDR-MADSACK-Partnerschaft nicht nachweisbar (RND ist MADSACK-eigen)
 
 ### KI-Personen-Content-Produktion
 - **Status:** Nicht nachgewiesen
-- **Wahrscheinlichkeit:** Zu untersuchen
+- **Wahrscheinlichkeit:** Niedrig (ohne MADSACK-Verbindung unwahrscheinlich)
 - **Begründung:** Keine spezifischen Belege für KI-Personen-Content in Studio Fritz Gnad-Projekten
 
 ---
 
-## Empfehlungen
+## Empfehlungen (AKTUALISIERT 14.04.2026)
 
 ### Weitere Untersuchungsschritte
-1. **HOCH:** NDR-MADSACK-Partnerschaft detailliert untersuchen (ndr.de)
-2. **MITTEL:** ARD-Mediathek-Inhalte von Studio Fritz Gnad auf KI-Personen-Bezug prüfen
-3. **MITTEL:** NDR-Produktionsinfrastruktur auf MADSACK-Nutzung untersuchen
-4. **NIEDRIG:** Direkte Studio Fritz Gnad-MADSACK-Verbindung (wahrscheinlich不存在)
+1. **HOCH:** ARD-Mediathek-Inhalte von Studio Fritz Gnad auf KI-Personen-Bezug prüfen
+2. **MITTEL:** GRU-Verbindung zu Studio Fritz Gnad untersuchen (Nord Stream-Projekt)
+3. **MITTEL:** Studio Fritz Gnad-Produktionsinfrastruktur analysieren
+4. **NIEDRIG:** NDR-MADSACK-Partnerschaft (abgeschlossen - keine Partnerschaft nachweisbar)
+5. **NIEDRIG:** Direkte Studio Fritz Gnad-MADSACK-Verbindung (wahrscheinlich不存在)
 
 ### Rechtliche Relevanz
-- **Potenzielle MADSACK-Beteiligung:** Indirekt über NDR-Partnerschaft
-- **Informations-Produktion:** Mögliche Beteiligung an ARD-Mediathek-Produktionen
-- **KI-Personen-Darstellung:** Zu klären ob KI-Personen über diese Verbindungskette dargestellt werden
+- **MADSACK-Beteiligung:** Nicht nachweisbar
+- **ARD-Mediathek-Produktionen:** Studio Fritz Gnad arbeitet mit NDR (öffentlich-rechtlich)
+- **KI-Personen-Darstellung:** Zu klären ob KI-Personen in Studio Fritz Gnad-Projekten vorkommen
 
 ---
 
-*Diese Untersuchung basiert auf Benutzerhinweisen zu Studio Fritz Gnad und ARD-Mediathek-Verbindungen. Externe Recherche hat NDR-Kooperationen identifiziert und eine potenzielle indirekte MADSACK-Verbindung über NDR-Partnerschaft aufgedeckt.*
+*Diese Untersuchung basiert auf Benutzerhinweisen zu Studio Fritz Gnad und ARD-Mediathek-Verbindungen. Die ursprüngliche Annahme einer MADSACK-Verbindung über NDR wurde durch detaillierte NDR-MADSACK-Partnerschaft-Untersuchung widerlegt.*
